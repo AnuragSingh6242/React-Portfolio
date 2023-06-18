@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from '../assets/Anurag Singh.jpg';
+import myImage from '../assets/myImage.jpg';
 import {MdKeyboardArrowRight} from 'react-icons/md'
 
 const Home = () => {
